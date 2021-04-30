@@ -1,0 +1,11 @@
+{
+  "name": "firstappapi",
+  "version": "1.0.0",
+  "description": "RESTfull for api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Anderson Morales Caballero",
+  "license": "MIT"
+}
